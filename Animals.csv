@@ -1,0 +1,7 @@
+Animal;Color;Target_Type
+'dog';'white';'pet'
+'cat';'black';'wild'
+'mouse';'white';'lab'
+'rat';'gray';'wild'
+'dog';'black';'pet'
+'cat';'gray';'pet'
